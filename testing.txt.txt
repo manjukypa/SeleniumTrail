@@ -1,1 +1,2 @@
 thi is for testing the file
+this is for checking merge option
